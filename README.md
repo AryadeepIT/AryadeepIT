@@ -12,7 +12,7 @@
 <a href="https://twitter.com/AryadeepIT">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111688.png" /></a>
 <a href="https://www.linkedin.com/in/AryadeepIT">
-  <img align="left" width="24px" src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128329.png?token=exp=1643616729~hmac=f2785a1771d38cc5ad816b58756704a5"  /></a>
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png"  /></a>
 <a href="mailto:aryadeepit@gmail.com">
   <img align="left" width="28px"src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" /></a>
 <a href="http://dev.to/AryadeepIT">
@@ -42,7 +42,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="vs-code" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/intellij-idea.png" alt="intellij-idea" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/linux--v1.png" alt="linux" width="40" height="40"/> </a>
-<a href="https://devops.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons.flaticon.com/png/512/5687/premium/5687273.png?token=exp=1643625185~hmac=aa3602a8f160ce3069694817a35c7221" alt="devops" width="40" height="40"/> </a>
+<a href="https://devops.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons.flaticon.com/png/512/5687/premium/5687273.png?token=exp=1643628416~hmac=78d1fbcd1b0794a546c9797b7813030a" alt="devops" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/google-cloud.png" alt="gcp" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/kubernetes.png" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="docker" width="40" height="40"/> </a>
@@ -55,14 +55,3 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png" alt="react" width="40" height="40"/> </a>
 </p>
-</br>
-
-
-
-<center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryadeepIT&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AryadeepIT" /></center>
-<center><img align="center" src="https://github-readme-stats.vercel.app/api?username=AryadeepIT&show_icons=true&locale=en&theme=tokyonight" alt="AryadeepIT" /></center>
-<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AryadeepIT&&theme=tokyonight" alt="AryadeepIT" /></p></center>
-
-[![Aryadeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AryadeepIT&&theme=xcode)](https://github.com/AryadeepIT)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AryadeepIT.AryadeepIT)

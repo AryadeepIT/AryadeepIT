@@ -3,8 +3,8 @@
 
 <!-- About Me Section -->
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & i am currently pursuing B.Tech in Information Technology </br>
-👨‍💻 I enjoy learning new things. 
+ 🎓 __*I’m an Open-Source enthusiast & i am currently pursuing B.Tech in Information Technology*__ </br>
+ 👨‍💻 __*I enjoy learning new things.*__
 </br>
 
 <!-- Contact Section -->

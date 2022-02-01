@@ -25,7 +25,7 @@
 
 </br>
 <!-- Coding language and Tools Section -->
-<h3 align="left">Languages :</h3>
+<h3 align="left">Languages and Tools : </h3>
 <p align="left">
 <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java-language" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/python--v1.png" alt="python-language" width="40" height="40"/> </a>
@@ -34,11 +34,7 @@
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="go-language" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html-markup-language" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/css3.png" alt="css-language" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="js-language" width="40" height="40"/> </a></p>
-
-<!-- Coding language and Tools Section -->
-<h3 align="left">Tools :</h3>
-<p align="left">
+<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="js-language" width="40" height="40"/> </a></br>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="vs-code" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/intellij-idea.png" alt="intellij-idea" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/linux--v1.png" alt="linux" width="40" height="40"/> </a>

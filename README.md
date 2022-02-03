@@ -2,7 +2,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aryadeep!](https://AryadeepIT.github.io) 
 
 <!-- About Me Section -->
-### 👨🏻‍💻 &nbsp;About Me
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> &nbsp;About Me
 
 💡 &nbsp;__*I like to explore new technologies and contribute in Open Source.\
 🎓 &nbsp;I'm currently studying Information Technology at Techno Main Saltlake, Kolkata, West Bengal, India.\
@@ -16,7 +16,31 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AryadeepIT/AryadeepIT/master/assets/Coding.gif" width="40%" height="40%" align="right"/>
 
 <!-- Contact Me Section -->
-### 🤝🏻 &nbsp;Connect with Me
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">&nbsp;Connect with Me
+
+
+
+### 🖥️ Technologies and Skills
+
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title = "Git"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title = "Java"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" title = "Kotlin"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" title = "Android"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" title = "MYSQL"/></code>
+
+</br></br>
+
+
+
+
+
+
+
+
 
 <a href="https://twitter.com/AryadeepIT">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111688.png" /></a>

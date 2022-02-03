@@ -13,7 +13,7 @@
 📄 &nbsp;Please have a look at my [Résumé Website](https://AryadeepIT.github.io) for more details about me. I'm open to feedback and suggestions!*__
 
 <!-- Right Side Image -->
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AryadeepIT/AryadeepIT/master/assets/Coding.gif" width="350px" height="300px" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AryadeepIT/AryadeepIT/master/assets/Coding.gif" width="40%" height="40%" align="right"/>
 
 <!-- Contact Me Section -->
 ### 🤝🏻 &nbsp;Connect with Me
@@ -51,9 +51,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=white)\
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=Google+Cloud)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)\

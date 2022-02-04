@@ -1,9 +1,9 @@
 <!-- Heading -->
+
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aryadeep!](https://AryadeepIT.github.io) 
 
 <!-- About Me Section -->
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> &nbsp;About Me
-
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>&nbsp;**About Me**
 💡 &nbsp;__*I like to explore new technologies and contribute in Open Source.\
 🎓 &nbsp;I'm currently studying Information Technology at Techno Main Saltlake, Kolkata, West Bengal, India.\
 🌱 &nbsp;I'm on track for learning more about Cloud Architecture, DSA, Java, Python, Web Dev and more!\
@@ -13,50 +13,22 @@
 📄 &nbsp;Please have a look at my [Résumé Website](https://AryadeepIT.github.io) for more details about me. I'm open to feedback and suggestions!*__
 
 <!-- Right Side Image -->
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AryadeepIT/AryadeepIT/master/assets/Coding.gif" width="40%" height="40%" align="right"/>
+<img alt="Coding" src="https://media1.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif?cid=ecf05e47pdquw7c7inxbcihpj3m9dyh2al5rp0d8brmfac8a&rid=giphy.gif&ct=s" width="30%" height="40%" align="right"/>
 
 <!-- Contact Me Section -->
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">&nbsp;Connect with Me
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp;Connect with Me
 
-
-
-### 🖥️ Technologies and Skills
-
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title = "Git"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title = "Java"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" title = "Kotlin"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" title = "Android"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" title = "MYSQL"/></code>
-
-</br></br>
-
-
-
-
-
-
-
-
-
-<a href="https://twitter.com/AryadeepIT">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111688.png" /></a>
-<a href="https://www.linkedin.com/in/AryadeepIT">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png"  /></a>
-<a href="mailto:aryadeepit@gmail.com">
-  <img align="left" width="28px"src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" /></a>
-<a href="http://dev.to/AryadeepIT">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/2297/2297885.png" /></a>
-<a href="https://www.instagram.com/AryadeepIT/">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" /></a>
-<a href="https://AryadeepIT.github.io">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/431/431979.png" /></a><br/>
+<a href="https://twitter.com/AryadeepIT"><code><img width="28px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" title = "twitter"/></code></a>
+<a href="https://www.linkedin.com/in/AryadeepIT"><code><img width="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" title = "linkedin"/></code></a>
+<a href="mailto:aryadeepit@gmail.com"><code><img width="28px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" title = "mail"/></code></a>
+<a href="http://dev.to/AryadeepIT"><code><img width="28px" src="https://cdn-icons-png.flaticon.com/512/2297/2297885.png" title = "blog"/></code></a>
+<a href="https://www.instagram.com/AryadeepIT/"><code><img width="28px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" title = "instagram"/></code></a>
+<a href="https://AryadeepIT.github.io"><code><img width="28px" src="https://cdn-icons-png.flaticon.com/512/431/431979.png" title = "website"/></code></a>
+</br>
 
 <!-- Tools Section -->
-### 🛠 &nbsp;Tech Stack
+
+<img alt="Coding" src="https://media3.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif?cid=ecf05e47aq8s3yvq85r3s0ct6ize4eohegxssj9cvedsho69&rid=giphy.gif&ct=s" width="12%" height="6%" align="left"/><br/><br/>
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -84,8 +56,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-05122A?style=flat&logo=intellijidea)
 
+ 
 <!-- Github Analytics Section -->
-### ⚙️ &nbsp;GitHub Analytics
+### <img src="https://media4.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e472s7ualekxw69urjo8u9dz6txqjk075f8gequb6x9&rid=giphy.gif&ct=s" width="20"> &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AryadeepIT">
@@ -95,6 +68,11 @@
 </p>
 
 <!-- Visitor Count Section -->
+	
+  <img align="right" width="21px" src="https://emojis.slackmojis.com/emojis/images/1643514244/2124/android.png?1643514244" />
+  <img align="right" width="21px" src="https://emojis.slackmojis.com/emojis/images/1643510969/49730/windows11.png?1643510969" />
+  <img align="right" width="21px" src="https://emojis.slackmojis.com/emojis/images/1643514336/3094/rainbowapple.png?1643514336" />
+  <img align="right" width="21px" src="https://emojis.slackmojis.com/emojis/images/1643514155/1159/ubuntu.png?1643514155" />
+  <img align="right" width="21px" src="https://emojis.slackmojis.com/emojis/images/1643514939/9611/linux.png?1643514939" />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AryadeepIT.AryadeepIT)
-

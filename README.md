@@ -6,7 +6,7 @@
 
 <!-- About Me Section -->
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>&nbsp;**About Me** ~
-💡 &nbsp;__*I like to explore new technologies and contribute in Open Source.\
+💡 &nbsp;__*I like to explore new technologies and contribute to Open Source.\
 🎓 &nbsp;I'm currently studying Information Technology at Techno Main Saltlake, Kolkata, West Bengal, India.\
 🌱 &nbsp;I'm on track for learning more about Cloud Architecture, DSA, Java, Python, Web Dev and more!\
 ✍️ &nbsp;In my free time, I pursue Web Design and Blog Writing as hobbies/side hustles.\

@@ -28,7 +28,7 @@
 
 <!-- Tools Section -->
 
-<img alt="Coding" src="https://media3.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif?cid=ecf05e47aq8s3yvq85r3s0ct6ize4eohegxssj9cvedsho69&rid=giphy.gif&ct=s" width="120px" height="80px" align="left"/> <br/><br/>
+<img alt="Coding" src="https://media3.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif?cid=ecf05e47aq8s3yvq85r3s0ct6ize4eohegxssj9cvedsho69&rid=giphy.gif&ct=s" width="120px" height="80px" align="left"/> <br/><br/><br/>
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

@@ -2,6 +2,8 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aryadeep!](https://AryadeepIT.github.io) 
 
+<img alt="Coding" src="https://media3.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif?cid=ecf05e47aq8s3yvq85r3s0ct6ize4eohegxssj9cvedsho69&rid=giphy.gif&ct=s" width="15%" height="12%" align="right"/>
+
 <!-- About Me Section -->
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>&nbsp;**About Me** ~
 💡 &nbsp;__*I like to explore new technologies and contribute in Open Source.\
@@ -14,6 +16,7 @@
 
 <!-- Right Side Image -->
 <img alt="Coding" src="https://media1.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif?cid=ecf05e47pdquw7c7inxbcihpj3m9dyh2al5rp0d8brmfac8a&rid=giphy.gif&ct=s" width="30%" height="40%" align="right"/>
+
 
 <!-- Contact Me Section -->
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp;**Connect with Me** ~
@@ -28,32 +31,32 @@
 
 <!-- Tools Section -->
 
-<img alt="Coding" src="https://media3.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif?cid=ecf05e47aq8s3yvq85r3s0ct6ize4eohegxssj9cvedsho69&rid=giphy.gif&ct=s" width="100px" height="60px" align="left"/> <br/><br/><br/>
+### <img src="https://media4.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif?cid=ecf05e47ulij0epvu8h0uvf0cwd6cy4e2dsk3258medjf21n&rid=giphy.gif&ct=s" width="30">&nbsp;**Languages & Tools** ~
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=GO&logoColor=A8B9CC)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)\
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=white)\
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=Google+Cloud)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=276DC3)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-05122A?style=flat&logo=intellijidea)
 
  

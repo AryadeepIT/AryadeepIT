@@ -6,13 +6,13 @@
 
 <!-- About Me Section -->
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>&nbsp;**About Me** ~
-💡 &nbsp;__*I like to explore new technologies and contribute to Open Source.\
+💡 **&nbsp;I like to explore new technologies and contribute to Open Source.\
 🎓 &nbsp;I'm currently studying Information Technology at Techno Main Saltlake, Kolkata, West Bengal, India.\
 🌱 &nbsp;I'm on track for learning more about Cloud Architecture, DSA, Java, Python, Web Dev and more!\
 ✍️ &nbsp;In my free time, I pursue Web Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at [aryadeepit@gmail.com](mailto:aryadeepit@gmail.com)! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé Website](https://AryadeepIT.github.io) for more details about me. I'm open to feedback and suggestions!*__
+📄 &nbsp;Please have a look at my [Résumé Website](https://AryadeepIT.github.io) for more details about me. I'm open to feedback and suggestions!**
 
 <!-- Right Side Image -->
 <img alt="Coding" src="https://media1.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif?cid=ecf05e47pdquw7c7inxbcihpj3m9dyh2al5rp0d8brmfac8a&rid=giphy.gif&ct=s" width="30%" height="40%" align="right"/>

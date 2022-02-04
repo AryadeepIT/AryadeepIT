@@ -3,7 +3,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aryadeep!](https://AryadeepIT.github.io) 
 
 <!-- About Me Section -->
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>&nbsp;**About Me**
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>&nbsp;**About Me** ~
 💡 &nbsp;__*I like to explore new technologies and contribute in Open Source.\
 🎓 &nbsp;I'm currently studying Information Technology at Techno Main Saltlake, Kolkata, West Bengal, India.\
 🌱 &nbsp;I'm on track for learning more about Cloud Architecture, DSA, Java, Python, Web Dev and more!\
@@ -16,7 +16,7 @@
 <img alt="Coding" src="https://media1.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif?cid=ecf05e47pdquw7c7inxbcihpj3m9dyh2al5rp0d8brmfac8a&rid=giphy.gif&ct=s" width="30%" height="40%" align="right"/>
 
 <!-- Contact Me Section -->
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp;Connect with Me
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp;**Connect with Me** ~
 
 <a href="https://twitter.com/AryadeepIT"><code><img width="28px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" title = "twitter"/></code></a>
 <a href="https://www.linkedin.com/in/AryadeepIT"><code><img width="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" title = "linkedin"/></code></a>
@@ -58,7 +58,7 @@
 
  
 <!-- Github Analytics Section -->
-### <img src="https://media4.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e472s7ualekxw69urjo8u9dz6txqjk075f8gequb6x9&rid=giphy.gif&ct=s" width="20"> &nbsp;GitHub Analytics
+### <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="22px"> &nbsp;**GitHub Analytics** ~
 
 <p align="center">
 <a href="https://github.com/AryadeepIT">

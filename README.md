@@ -71,11 +71,5 @@
 </p>
 
 <!-- Visitor Count Section -->
-	
-  <img align="right" width="21px" src="https://emojis.slackmojis.com/emojis/images/1643514244/2124/android.png?1643514244" />
-  <img align="right" width="21px" src="https://emojis.slackmojis.com/emojis/images/1643510969/49730/windows11.png?1643510969" />
-  <img align="right" width="21px" src="https://emojis.slackmojis.com/emojis/images/1643514336/3094/rainbowapple.png?1643514336" />
-  <img align="right" width="21px" src="https://emojis.slackmojis.com/emojis/images/1643514155/1159/ubuntu.png?1643514155" />
-  <img align="right" width="21px" src="https://emojis.slackmojis.com/emojis/images/1643514939/9611/linux.png?1643514939" />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AryadeepIT.AryadeepIT)

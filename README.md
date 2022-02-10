@@ -73,4 +73,3 @@
 <!-- Visitor Count Section -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AryadeepIT.AryadeepIT)
-<!--START_SECTION:waka--><!--END_SECTION:waka-->

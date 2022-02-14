@@ -2,9 +2,12 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aryadeep!](https://AryadeepIT.github.io) 
 
-<img alt="Coding" src="https://media3.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif?cid=ecf05e47aq8s3yvq85r3s0ct6ize4eohegxssj9cvedsho69&rid=giphy.gif&ct=s" width="15%" height="12%" align="right"/>
+<!---
+<img alt="Coding" src="https://media3.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif?cid=ecf05e47aq8s3yvq85r3s0ct6ize4eohegxssj9cvedsho69&rid=giphy.gif&ct=s" width="15%" height="12%" align="right"/> 
+-->
 
 <!-- About Me Section -->
+<!--
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>&nbsp;**About Me** ~
 💡 **&nbsp;I like to explore new technologies and contribute to Open Source.\
 🎓 &nbsp;I'm currently studying Information Technology at Techno Main Saltlake, Kolkata, West Bengal, India.\
@@ -13,13 +16,16 @@
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at [AryadeepIT@gmail.com](mailto:aryadeepit@gmail.com)!  I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé Website](https://AryadeepIT.github.io) for more details about me. I'm open to feedback and suggestions!**
+-->
 
 <!-- Right Side Image -->
-<img alt="Coding" src="https://media1.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif?cid=ecf05e47pdquw7c7inxbcihpj3m9dyh2al5rp0d8brmfac8a&rid=giphy.gif&ct=s" width="30%" height="40%" align="right"/>
+<!--<img alt="Coding" src="https://media1.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif?cid=ecf05e47pdquw7c7inxbcihpj3m9dyh2al5rp0d8brmfac8a&rid=giphy.gif&ct=s" width="30%" height="40%" align="right"/>-->
 
 
 <!-- Contact Me Section -->
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp;**Connect with Me** ~
+<!--### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp;**Connect with Me** ~-->
+
+### Contact
 
 <a href="https://twitter.com/AryadeepIT"><code><img width="28px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" title = "twitter"/></code></a>
 <a href="https://www.linkedin.com/in/AryadeepIT"><code><img width="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" title = "linkedin"/></code></a>
@@ -31,7 +37,7 @@
 
 <!-- Tools Section -->
 
-### <img src="https://media4.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif?cid=ecf05e47ulij0epvu8h0uvf0cwd6cy4e2dsk3258medjf21n&rid=giphy.gif&ct=s" width="30">&nbsp;**Languages & Tools** ~
+<!--### <img src="https://media4.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif?cid=ecf05e47ulij0epvu8h0uvf0cwd6cy4e2dsk3258medjf21n&rid=giphy.gif&ct=s" width="30">&nbsp;**Languages & Tools** ~
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -57,12 +63,12 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-05122A?style=flat&logo=intellijidea)
+![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-05122A?style=flat&logo=intellijidea) -->
 
  
 <!-- Github Analytics Section -->
-### <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="22px"> &nbsp;**GitHub Analytics** ~
-
+<!--### <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="22px"> &nbsp;**GitHub Analytics** ~
+-->
 <p align="center">
 <a href="https://github.com/AryadeepIT">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AryadeepIT&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"/>

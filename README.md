@@ -12,9 +12,6 @@
 <a href="https://www.linkedin.com/in/aryadeepit/">
   <img align="left" alt="Aryadeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.aryadeepit.github.io/">
-  <img align="left" alt="Aryadeep's Portfolio Website" width="12%" height="22%" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" />
-</a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AryadeepIT.AryadeepIT)
 

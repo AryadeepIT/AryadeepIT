@@ -1,5 +1,6 @@
 <!-- Heading -->
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am [Aryadeep!](https://aryadeepit.github.io)
+
 <a href="https://www.instagram.com/aryadeepit/">
   <img align="left" alt="Aryadeep's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
 </a>
@@ -17,4 +18,6 @@
 </a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AryadeepIT.AryadeepIT)
+
+<br/> I am Aryadeep Chakraborty, currently pursuing my B.Tech degree in Information Technology from Techno Main Saltlake College. I am a tech enthusiast & an open-source contributor. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.
 

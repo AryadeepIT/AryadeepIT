@@ -20,13 +20,26 @@
 
 <!-- Contact Me Section -->
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp;**Connect with Me** ~
+<a href="https://www.linkedin.com/in/aryadeepit/">
+  <img align="left" alt="Aryadeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.leetcode.com/aryadeepit/">
+  <img align="left" alt="Aryadeep's leetcode" width="18px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
+</a>
 
-<a href="https://twitter.com/AryadeepIT"><code><img width="28px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" title = "twitter"/></code></a>
-<a href="https://www.linkedin.com/in/AryadeepIT"><code><img width="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" title = "linkedin"/></code></a>
-<a href="mailto:aryadeepit@gmail.com"><code><img width="28px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" title = "mail"/></code></a>
-<a href="http://dev.to/AryadeepIT"><code><img width="28px" src="https://cdn-icons-png.flaticon.com/512/2297/2297885.png" title = "blog"/></code></a>
-<a href="https://www.instagram.com/AryadeepIT/"><code><img width="28px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" title = "instagram"/></code></a>
-<a href="https://AryadeepIT.github.io"><code><img width="28px" src="https://cdn-icons-png.flaticon.com/512/431/431979.png" title = "website"/></code></a>
+<a href="https://twitter.com/aryadeepit">
+  <img align="left" alt="Aryadeep Chakraborty | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="mailto:aryadeepit@gmail.com">
+  <img align="left" alt="Aryadeep's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />
+</a>
+<a href="https://www.instagram.com/aryadeepit/">
+  <img align="left" alt="Aryadeep's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
+</a>
+
+
+
+
 </br>
 
 <!-- Tools Section -->
@@ -71,21 +84,5 @@
 </p>
 
 <!-- Right URL and Visitor Count Section -->
-	
-  <a href="https://www.instagram.com/aryadeepit/">
-  <img align="right" alt="Aryadeep's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
-</a>
-<a href="mailto:aryadeepit@gmail.com">
-  <img align="right" alt="Aryadeep's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />
-</a>
-<a href="https://twitter.com/aryadeepit">
-  <img align="right" alt="Aryadeep Chakraborty | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aryadeepit/">
-  <img align="right" alt="Aryadeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.leetcode.com/aryadeepit/">
-  <img align="right" alt="Aryadeep's leetcode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
-</a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AryadeepIT.AryadeepIT) 

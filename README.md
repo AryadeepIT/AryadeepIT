@@ -73,6 +73,11 @@
 </a>
 </p>
 
+<!-- Wakatime Stats Section -->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!-- Right URL and Visitor Count Section -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AryadeepIT.AryadeepIT) 

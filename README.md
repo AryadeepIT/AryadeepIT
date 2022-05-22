@@ -69,7 +69,7 @@
 <p align="center">
 <a href="https://github.com/AryadeepIT">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AryadeepIT&show_icons=true&hide_border=true&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AryadeepIT&layout=compact&hide_border=true&langs_count=8&bg_color=30,141E30,243B55&title_color=fff&text_color=fff"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AryadeepIT&layout=compact&hide_border=true&langs_count=8&bg_color=30,243B55,141E30&title_color=fff&text_color=fff"/>
 </a>
 </p>
 

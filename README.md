@@ -68,16 +68,32 @@
 
 <p align="center">
 <a href="https://github.com/AryadeepIT">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AryadeepIT&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AryadeepIT&layout=compact&hide_border=true&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AryadeepIT&show_icons=true&hide_border=true&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AryadeepIT&layout=compact&hide_border=true&langs_count=8&bg_color=30,141E30,243B55&title_color=fff&text_color=fff"/>
 </a>
 </p>
 
 <!-- Wakatime Stats Section -->
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <!-- Right URL and Visitor Count Section -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AryadeepIT.AryadeepIT) 
+[![wakatime](https://wakatime.com/badge/user/26150858-ead2-45fa-b82a-fcbbfc133fc7.svg)](https://wakatime.com/@26150858-ead2-45fa-b82a-fcbbfc133fc7)
+
+
+
+
+<!-- 
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

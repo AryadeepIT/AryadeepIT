@@ -1,6 +1,6 @@
 <!-- Heading -->
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aryadeep!](https://AryadeepIT.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Aryadeep!](https://AryadeepIT.github.io) 
 
 <!-- <img alt="Coding" src="https://media3.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif?cid=ecf05e47aq8s3yvq85r3s0ct6ize4eohegxssj9cvedsho69&rid=giphy.gif&ct=s" width="15%" height="12%" align="right"/> -->
 
@@ -64,7 +64,7 @@
 ![Spark AR](https://img.shields.io/badge/-Spark%20AR-05122A?style=flat&logo=Spark+AR)
  
 <!-- Github Analytics Section -->
-### <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="22px"> &nbsp;**GitHub Analytics** ~
+### <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="22"> &nbsp;**GitHub Analytics** ~
 
 <p align="center">
 <a href="https://github.com/AryadeepIT">

@@ -37,6 +37,9 @@
 <a href="https://www.instagram.com/aryadeepit/">
   <img align="left" alt="Aryadeep's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
 </a>
+<a href="https://aryadeepit.bio.link">
+  <img align="left" alt="Aryadeep's Bio Link" width="25px" src="https://cdn-icons-png.flaticon.com/512/560/560216.png" />
+</a>
 
 
 

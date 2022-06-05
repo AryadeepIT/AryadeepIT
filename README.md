@@ -25,7 +25,7 @@
   <img align="left" alt="Aryadeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.leetcode.com/aryadeepit/">
-  <img align="left" alt="Aryadeep's leetcode" width="18px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
+  <img align="left" alt="Aryadeep's leetcode" width="18px" src="icons/leetcode_logo.png" />
 </a>
 
 <a href="https://twitter.com/aryadeepit">

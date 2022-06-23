@@ -18,7 +18,7 @@
 <!-- Right Side Image -->
 <!-- <img alt="Coding" src="https://media1.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif?cid=ecf05e47pdquw7c7inxbcihpj3m9dyh2al5rp0d8brmfac8a&rid=giphy.gif&ct=s" width="30%" height="40%" align="right"/> -->
 
-
+ 
 <!-- Contact Me Section -->
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp;**Connect with Me** ~
 <a href="https://www.linkedin.com/in/aryadeepit/">

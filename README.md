@@ -1,6 +1,6 @@
 <!-- Heading -->
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Aryadeep!](https://AryadeepIT.github.io) 
+## Hey ✌, I'm [Aryadeep!](https://AryadeepIT.github.io) 
 
 <!-- <img alt="Coding" src="https://media3.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif?cid=ecf05e47aq8s3yvq85r3s0ct6ize4eohegxssj9cvedsho69&rid=giphy.gif&ct=s" width="15%" height="12%" align="right"/> -->
 
@@ -26,10 +26,6 @@
 </a>
 <a href="https://www.leetcode.com/aryadeepit/">
   <img align="left" alt="Aryadeep's leetcode" width="18px" src="icons/leetcode_logo.png" />
-</a>
-
-<a href="https://twitter.com/aryadeepit">
-  <img align="left" alt="Aryadeep Chakraborty | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="mailto:aryadeepit@gmail.com">
   <img align="left" alt="Aryadeep's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />

@@ -21,20 +21,20 @@
  
 <!-- Contact Me Section -->
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp;**Connect with Me** ~
-<a href="https://www.linkedin.com/in/aryadeepit/">
-  <img align="left" alt="Aryadeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/aryadeepit2/">
+  <img align="left" alt="Aryadeep's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" />
 </a>
 <a href="https://www.leetcode.com/aryadeepit/">
-  <img align="left" alt="Aryadeep's leetcode" width="18px" src="icons/leetcode_logo.png" />
+  <img align="left" alt="Aryadeep's leetcode" width="22px" src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" />
 </a>
 <a href="mailto:aryadeepit@gmail.com">
-  <img align="left" alt="Aryadeep's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />
+  <img align="left" alt="Aryadeep's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/3060/3060001.png" />
 </a>
 <a href="https://www.instagram.com/aryadeepit/">
   <img align="left" alt="Aryadeep's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
 </a>
 <a href="https://aryadeepit.bio.link">
-  <img align="left" alt="Aryadeep's Bio Link" width="25px" src="icons/bio_link_logo.jpg" />
+  <img align="left" alt="Aryadeep's Bio Link" width="25px" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" />
 </a>
 
 

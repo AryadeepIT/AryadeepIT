@@ -30,7 +30,7 @@
 <a href="mailto:aryadeepit@gmail.com">
   <img align="left" alt="Aryadeep's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/3060/3060001.png" />
 </a>
-<a href="https://www.instagram.com/aryadeepit/">
+<a href="https://www.instagram.com/aryadeepit/">   
   <img align="left" alt="Aryadeep's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
 </a>
 <a href="https://aryadeepit.bio.link">

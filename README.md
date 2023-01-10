@@ -21,7 +21,7 @@
  
 <!-- Contact Me Section -->
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp;**Connect with Me** ~
-<a href="https://www.linkedin.com/in/aryadeepit2/">
+<a href="https://www.linkedin.com/in/aryadeepit/">
   <img align="left" alt="Aryadeep's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" />
 </a>
 <a href="https://www.leetcode.com/aryadeepit/">

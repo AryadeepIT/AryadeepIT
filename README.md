@@ -1,5 +1,5 @@
 <!-- Heading -->
-
+ 
 ## Hey ✌, I'm [Aryadeep!](https://AryadeepIT.github.io) 
 
 <!-- <img alt="Coding" src="https://media3.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif?cid=ecf05e47aq8s3yvq85r3s0ct6ize4eohegxssj9cvedsho69&rid=giphy.gif&ct=s" width="15%" height="12%" align="right"/> -->

@@ -61,7 +61,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-05122A?style=flat&logo=intellijidea)&nbsp;
 ![CodePen](https://img.shields.io/badge/-CodePen-05122A?style=flat&logo=CodePen)&nbsp;
-![Spark AR](https://img.shields.io/badge/-Spark%20AR-05122A?style=flat&logo=Spark+AR)
+![Spark AR](https://img.shields.io/badge/-Spark%20AR-05122A?style=flat&logo=Spark+AR) 
  
 <!-- Github Analytics Section -->
 ### <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="22"> &nbsp;**GitHub Analytics** ~

@@ -47,8 +47,8 @@
 ### <img src="https://media4.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif?cid=ecf05e47ulij0epvu8h0uvf0cwd6cy4e2dsk3258medjf21n&rid=giphy.gif&ct=s" width="30">&nbsp;**Languages & Tools** ~
 
 <!-- to find icon names visit - https://simpleicons.org/ -->
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=Coursera)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;

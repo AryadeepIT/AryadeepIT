@@ -81,7 +81,7 @@
 <!-- Right URL and Visitor Count Section -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AryadeepIT.AryadeepIT) 
-[![wakatime](https://wakatime.com/badge/user/26150858-ead2-45fa-b82a-fcbbfc133fc7.svg)](https://wakatime.com/@26150858-ead2-45fa-b82a-fcbbfc133fc7)
+<!-- [![wakatime](https://wakatime.com/badge/user/26150858-ead2-45fa-b82a-fcbbfc133fc7.svg)](https://wakatime.com/@26150858-ead2-45fa-b82a-fcbbfc133fc7) -->
 
 
 

@@ -2,7 +2,7 @@
   
 ## Hey <img src="https://emojis.slackmojis.com/emojis/images/1660415377/60669/victory-hand.gif?1660415377" width="25"/>, I'm [Aryadeep!](https://AryadeepIT.github.io) 
 
-<!-- <img alt="Coding" src="https://media3.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif?cid=ecf05e47aq8s3yvq85r3s0ct6ize4eohegxssj9cvedsho69&rid=giphy.gif&ct=s" width="15%" height="12%" align="right"/> -->  
+<!-- <img alt="Coding" src="https://media3.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif?cid=ecf05e47aq8s3yvq85r3s0ct6ize4eohegxssj9cvedsho69&rid=giphy.gif&ct=s" width="15%" height="12%" align="right"/> -->   
  
 <!-- ✍️ &nbsp;In my free time, I pursue Web Design and Blog Writing as hobbies/side hustles.\ -->
 <!-- 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\ -->  

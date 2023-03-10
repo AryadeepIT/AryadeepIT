@@ -9,8 +9,8 @@
 
 <!-- About Me Section -->
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>&nbsp;**About Me** ~
-🔭 I’m currently working on Data Analysis Projects.\
-💡 **&nbsp;I like to explore new technologies and contribute to Open Source.\
+🔭 **&nbsp;I’m currently working on Data Analysis Projects.\
+💡  &nbsp;&nbsp;I like to explore new technologies and contribute to Open Source.\
 🎓 &nbsp;I'm currently studying Information Technology at Techno Main Saltlake, Kolkata, West Bengal, India.\
 🌱 &nbsp;I'm on track for learning more about Data Science, DSA, Python, Web Dev and more!\
 📫 &nbsp;You can shoot me an email at [AryadeepIT@gmail.com](mailto:aryadeepit@gmail.com)!  I'll try to respond as soon as I can.\

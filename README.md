@@ -60,6 +60,7 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=Google+Cloud)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=Amazon+AWS)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
 ![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-05122A?style=flat&logo=intellijidea)&nbsp;
 ![CodePen](https://img.shields.io/badge/-CodePen-05122A?style=flat&logo=CodePen)&nbsp;
 ![Spark AR](https://img.shields.io/badge/-Spark%20AR-05122A?style=flat&logo=Spark+AR) 

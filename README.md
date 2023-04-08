@@ -26,7 +26,7 @@
   <img align="left" alt="Aryadeep's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" />
 </a>
 <a href="https://www.leetcode.com/aryadeepit/">
-  <img align="left" alt="Aryadeep's leetcode" width="22px" src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" />
+  <img align="left" alt="Aryadeep's leetcode" width="22px" src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" /> 
 </a>
 <a href="mailto:aryadeepit@gmail.com">
   <img align="left" alt="Aryadeep's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/3060/3060001.png" /> 

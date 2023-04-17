@@ -9,7 +9,7 @@
 
 <!-- About Me Section --> 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>&nbsp;**About Me** ~
-🔭 **&nbsp;I’m currently working on React Projects.\
+🔭 **&nbsp;I’m currently working on Data Analysis Projects.\
 💡  &nbsp;&nbsp;I like to explore new technologies and contribute to Open Source.\
 🎓 &nbsp;I'm currently studying Information Technology at Techno Main Saltlake, Kolkata, West Bengal, India.\
 🌱 &nbsp;I'm on track for learning more about Data Science, DSA, Python, Web Dev and more!\
@@ -17,7 +17,7 @@
 🌍 &nbsp;Please have a look at my [Résumé Website](https://aryadeepit.tech) for more details about me. I'm open to feedback and suggestions!**   
 
 <!-- Right Side Image -->
-<!-- <img alt="Coding" src="https://media1.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif?cid=ecf05e47pdquw7c7inxbcihpj3m9dyh2al5rp0d8brmfac8a&rid=giphy.gif&ct=s" width="30%" height="40%" align="right"/> --> 
+<!-- <img alt="Coding" src="https://media1.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif?cid=ecf05e47pdquw7c7inxbcihpj3m9dyh2al5rp0d8brmfac8a&rid=giphy.gif&ct=s" width="30%" height="40%" align="right"/>  -->
   
  
 <!-- Contact Me Section -->

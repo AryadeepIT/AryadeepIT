@@ -9,7 +9,7 @@
 
 <!-- About Me Section --> 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>&nbsp;**About Me** ~
-🔭 **&nbsp;I’m currently working on building ecommerce website Project.\
+🔭 **&nbsp;I’m currently working on building ecommerce website Project.\ 
 💡  &nbsp;&nbsp;I like to explore new technologies and contribute to Open Source.\
 🎓 &nbsp;I'm currently studying Information Technology at Techno Main Saltlake, Kolkata, West Bengal, India.\ 
 🌱 &nbsp;I'm on track for learning more about Data Science, DSA, Python, Web Dev and more!\

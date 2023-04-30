@@ -10,7 +10,7 @@
 <!-- About Me Section --> 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>&nbsp;**About Me** ~
 🔭 &nbsp;I’m currently studying for semester exams. <br />
-💡  &nbsp;&nbsp;I like to explore new technologies and contribute to Open Source.<br />
+💡 &nbsp;&nbsp;I like to explore new technologies and contribute to Open Source.<br />
 🎓 &nbsp;I'm currently studying Information Technology at Techno Main Saltlake, Kolkata, West Bengal, India.<br />
 🌱 &nbsp;I'm on track for learning more about Data Science, DSA, Python, Web Dev and more!<br />
 📫 &nbsp;You can shoot me an email at [AryadeepIT@gmail.com](mailto:aryadeepit@gmail.com)!  I'll try to respond as soon as I can.<br />
